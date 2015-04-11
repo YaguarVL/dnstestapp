@@ -1,0 +1,14 @@
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\obj\Debug\DnsTestApp.csprojResolveAssemblyReference.cache
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\DnsTestApp.dll.config
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\DnsTestApp.dll
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\DnsTestApp.pdb
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\EntityFramework.dll
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\EntityFramework.SqlServer.dll
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\Newtonsoft.Json.dll
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\EntityFramework.xml
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\EntityFramework.SqlServer.xml
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\bin\Newtonsoft.Json.xml
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\obj\Debug\DnsTestApp.dll
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\obj\Debug\DnsTestApp.pdb
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\obj\Debug\DnsTestApp.Migrations.Dsdsd.resources
+C:\Users\YaguarVL\Source\Workspaces\DnsTestApp2\DnsTestApp\DnsTestApp\obj\Debug\DnsTestApp.csproj.GenerateResource.Cache
