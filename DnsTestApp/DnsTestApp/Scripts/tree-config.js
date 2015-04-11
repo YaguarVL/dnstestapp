@@ -14,11 +14,6 @@
                     },
                     "error": function() {
                         $('#alertdiv').removeClass('hidden');
-                        window.setTimeout(function () {
-                            $("#alertdiv").fadeTo(500, 0).slideUp(500, function () {
-                                $(this).addClass("hidden");
-                            });
-                        }, 5000);
                     }
                 },
                 "check_callback" : function(operation, node, nodeParent, nodePosition, more) {
